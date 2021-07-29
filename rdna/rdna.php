@@ -141,7 +141,7 @@ function load_news() {
 
 
 function my_acf_init() {
-    acf_update_setting('google_api_key', 'AIzaSyCC_PVYUEGHrgB5ACQOlBmj0NtZyVCz4GY');
+    acf_update_setting('google_api_key', 'GOOGLE_API_KEY');
 }
 add_action('acf/init', 'my_acf_init');
 
