@@ -1,0 +1,8 @@
+.entities{
+	margin:25px 0px;
+}
+.rankings div{
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px 20px;
+}
