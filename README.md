@@ -5,10 +5,15 @@ This is a prototype for a final class project in Cornell Tech's product studio. 
 
 ## Demo
 
+https://user-images.githubusercontent.com/7725659/127552213-ad79441b-f1cf-4a3f-81a7-2ad8de073e8b.mp4
+
+
+
+
 ![product-gif2](https://user-images.githubusercontent.com/7725659/127552130-f3380632-691c-4cce-8d06-7bceb1a6d114.gif)
 
 
-Uploading final-product.mp4…
+
 
 
 
